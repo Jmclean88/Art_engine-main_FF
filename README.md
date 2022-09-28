@@ -1,46 +1,3 @@
-# Welcome to HashLips 👄
-
-![](https://github.com/HashLips/hashlips_art_engine/blob/main/logo.png)
-
-All the code in these repos was created and explained by HashLips on the main YouTube channel.
-
-To find out more please visit:
-
-[📺 YouTube](https://www.youtube.com/channel/UC1LV4_VQGBJHTJjEWUmy8nA)
-
-[👄 Discord](https://discord.com/invite/qh6MWhMJDN)
-
-[💬 Telegram](https://t.me/hashlipsnft)
-
-[🐦 Twitter](https://twitter.com/hashlipsnft)
-
-[ℹ️ Website](https://hashlips.online/HashLips)
-
-# HashLips Art Engine 🔥
-
-![](https://github.com/HashLips/hashlips_art_engine/blob/main/banner.png)
-
-Create generative art by using the canvas api and node js. Before you use the generation engine, make sure you have node.js(v10.18.0) installed.
-
-## Installation 🛠️
-
-If you are cloning the project then run this first, otherwise you can download the source code on the release page and skip this step.
-
-```sh
-git clone https://github.com/HashLips/hashlips_art_engine.git
-```
-
-Go to the root of your folder and run this command if you have yarn installed.
-
-```sh
-yarn install
-```
-
-Alternatively you can run this command if you have node installed.
-
-```sh
-npm install
-```
 
 ## Usage ℹ️
 
@@ -178,17 +135,9 @@ const MODE = {
 };
 ```
 
-When you are ready, run the following command and your outputted art will be in the `build/images` directory and the json in the `build/json` directory:
 
-```sh
 npm run build
-```
 
-or
-
-```sh
-node index.js
-```
 
 The program will output all the images in the `build/images` directory along with the metadata files in the `build/json` directory. Each collection will have a `_metadata.json` file that consists of all the metadata in the collection inside the `build/json` directory. The `build/json` folder also will contain all the single json files that represent each image file. The single json file of a image will look something like this:
 
@@ -209,62 +158,8 @@ The program will output all the images in the `build/images` directory along wit
     { "trait_type": "Bottom lid", "value": "Low" },
     { "trait_type": "Top lid", "value": "Middle" }
   ],
-  "compiler": "HashLips Art Engine"
+  
 }
-```
-
-You can also add extra metadata to each metadata file by adding your extra items, (key: value) pairs to the `extraMetadata` object variable in the `config.js` file.
-
-```js
-const extraMetadata = {
-  creator: "Daniel Eugene Botha",
-};
-```
-
-If you don't need extra metadata, simply leave the object empty. It is empty by default.
-
-```js
-const extraMetadata = {};
-```
-
-That's it, you're done.
-
-## Utils
-
-### Updating baseUri for IPFS and description
-
-You might possibly want to update the baseUri and description after you have ran your collection. To update the baseUri and description simply run:
-
-```sh
-npm run update_info
-```
-
-### Generate a preview image
-
-Create a preview image collage of your collection, run:
-
-```sh
-npm run preview
-```
-
-### Generate pixelated images from collection
-
-In order to convert images into pixelated images you would need a list of images that you want to convert. So run the generator first.
-
-Then simply run this command:
-
-```sh
-npm run pixelate
-```
-
-All your images will be outputted in the `/build/pixel_images` directory.
-If you want to change the ratio of the pixelation then you can update the ratio property on the `pixelFormat` object in the `src/config.js` file. The lower the number on the left, the more pixelated the image will be.
-
-```js
-const pixelFormat = {
-  ratio: 5 / 128,
-};
-```
 
 ### Generate GIF images from collection
 
@@ -309,5 +204,3 @@ Trait type: Top lid
   occurrence: '14 in 20 editions (70.00 %)'
 }
 ```
-
-Hope you create some awesome artworks with this code 👄
