@@ -1,0 +1,2415 @@
+
+> hashlips_art_engine@1.1.1 rarity
+> node utils/rarity.js
+
+Trait type: Player
+{
+  trait: 'Aaron Rodgers',
+  weight: '1',
+  occurrence: '17 in 400 editions (4.25 %)'
+}
+{
+  trait: 'Baker Mayfield',
+  weight: '1',
+  occurrence: '15 in 400 editions (3.75 %)'
+}
+{
+  trait: 'Carson Wentz',
+  weight: '1',
+  occurrence: '13 in 400 editions (3.25 %)'
+}
+{
+  trait: 'Dak Prescott',
+  weight: '1',
+  occurrence: '13 in 400 editions (3.25 %)'
+}
+{
+  trait: 'Daniel Jones',
+  weight: '1',
+  occurrence: '15 in 400 editions (3.75 %)'
+}
+{
+  trait: 'Davis Mills',
+  weight: '1',
+  occurrence: '19 in 400 editions (4.75 %)'
+}
+{
+  trait: 'Derek Carr',
+  weight: '1',
+  occurrence: '11 in 400 editions (2.75 %)'
+}
+{
+  trait: 'Deshaun Watson',
+  weight: '1',
+  occurrence: '18 in 400 editions (4.50 %)'
+}
+{
+  trait: 'Jalen Hurts',
+  weight: '1',
+  occurrence: '12 in 400 editions (3.00 %)'
+}
+{
+  trait: 'Jameis Winston',
+  weight: '1',
+  occurrence: '14 in 400 editions (3.50 %)'
+}
+{
+  trait: 'Jared Goff',
+  weight: '1',
+  occurrence: '10 in 400 editions (2.50 %)'
+}
+{
+  trait: 'Joe Burrow',
+  weight: '1',
+  occurrence: '12 in 400 editions (3.00 %)'
+}
+{
+  trait: 'Josh Allen',
+  weight: '1',
+  occurrence: '12 in 400 editions (3.00 %)'
+}
+{
+  trait: 'Justin Fields',
+  weight: '1',
+  occurrence: '17 in 400 editions (4.25 %)'
+}
+{
+  trait: 'Justin Herbert',
+  weight: '1',
+  occurrence: '17 in 400 editions (4.25 %)'
+}
+{
+  trait: 'Kirk Cousins',
+  weight: '1',
+  occurrence: '17 in 400 editions (4.25 %)'
+}
+{
+  trait: 'Kyler Murray',
+  weight: '1',
+  occurrence: '16 in 400 editions (4.00 %)'
+}
+{
+  trait: 'Lamar Jackson',
+  weight: '1',
+  occurrence: '13 in 400 editions (3.25 %)'
+}
+{
+  trait: 'Mac Jones',
+  weight: '1',
+  occurrence: '9 in 400 editions (2.25 %)'
+}
+{
+  trait: 'Matt Ryan',
+  weight: '1',
+  occurrence: '4 in 400 editions (1.00 %)'
+}
+{
+  trait: 'Matthew Stafford',
+  weight: '1',
+  occurrence: '11 in 400 editions (2.75 %)'
+}
+{
+  trait: 'Mitch Trubisky',
+  weight: '1',
+  occurrence: '11 in 400 editions (2.75 %)'
+}
+{
+  trait: 'Patrick Mahomes',
+  weight: '1',
+  occurrence: '14 in 400 editions (3.50 %)'
+}
+{
+  trait: 'Russell Wilson',
+  weight: '1',
+  occurrence: '12 in 400 editions (3.00 %)'
+}
+{
+  trait: 'Ryan Tannehill',
+  weight: '1',
+  occurrence: '14 in 400 editions (3.50 %)'
+}
+{
+  trait: 'Tom Brady',
+  weight: '1',
+  occurrence: '13 in 400 editions (3.25 %)'
+}
+{
+  trait: 'Trevor Lawrence',
+  weight: '1',
+  occurrence: '17 in 400 editions (4.25 %)'
+}
+{
+  trait: 'Trey Lance',
+  weight: '1',
+  occurrence: '9 in 400 editions (2.25 %)'
+}
+{
+  trait: 'Tua Tagovailoa',
+  weight: '1',
+  occurrence: '11 in 400 editions (2.75 %)'
+}
+{
+  trait: 'Zach Wilson',
+  weight: '1',
+  occurrence: '14 in 400 editions (3.50 %)'
+}
+
+Trait type: Pos
+{
+  trait: 'QB',
+  weight: '1',
+  occurrence: '400 in 400 editions (100.00 %)'
+}
+
+Trait type: BuildNum
+{
+  trait: 'Num1',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num10',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num100',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num101',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num102',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num103',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num104',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num105',
+  weight: '1',
+  occurrence: '2 in 400 editions (0.50 %)'
+}
+{
+  trait: 'Num106',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num107',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num108',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num109',
+  weight: '1',
+  occurrence: '2 in 400 editions (0.50 %)'
+}
+{
+  trait: 'Num11',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num110',
+  weight: '1',
+  occurrence: '2 in 400 editions (0.50 %)'
+}
+{
+  trait: 'Num111',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num112',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num113',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num114',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num115',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num116',
+  weight: '1',
+  occurrence: '2 in 400 editions (0.50 %)'
+}
+{
+  trait: 'Num117',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num118',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num119',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num12',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num120',
+  weight: '1',
+  occurrence: '2 in 400 editions (0.50 %)'
+}
+{
+  trait: 'Num121',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num122',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num123',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num124',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num125',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num126',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num127',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num128',
+  weight: '1',
+  occurrence: '2 in 400 editions (0.50 %)'
+}
+{
+  trait: 'Num129',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num13',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num130',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num131',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num132',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num133',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num134',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num135',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num136',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num137',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num138',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num139',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num14',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num140',
+  weight: '1',
+  occurrence: '2 in 400 editions (0.50 %)'
+}
+{
+  trait: 'Num141',
+  weight: '1',
+  occurrence: '3 in 400 editions (0.75 %)'
+}
+{
+  trait: 'Num142',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num143',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num144',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num145',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num146',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num147',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num148',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num149',
+  weight: '1',
+  occurrence: '2 in 400 editions (0.50 %)'
+}
+{
+  trait: 'Num15',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num150',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num151',
+  weight: '1',
+  occurrence: '2 in 400 editions (0.50 %)'
+}
+{
+  trait: 'Num152',
+  weight: '1',
+  occurrence: '2 in 400 editions (0.50 %)'
+}
+{
+  trait: 'Num153',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num154',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num155',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num156',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num157',
+  weight: '1',
+  occurrence: '3 in 400 editions (0.75 %)'
+}
+{
+  trait: 'Num158',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num159',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num16',
+  weight: '1',
+  occurrence: '2 in 400 editions (0.50 %)'
+}
+{
+  trait: 'Num160',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num161',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num162',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num163',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num164',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num165',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num166',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num167',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num168',
+  weight: '1',
+  occurrence: '2 in 400 editions (0.50 %)'
+}
+{
+  trait: 'Num169',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num17',
+  weight: '1',
+  occurrence: '2 in 400 editions (0.50 %)'
+}
+{
+  trait: 'Num170',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num171',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num172',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num173',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num174',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num175',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num176',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num177',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num178',
+  weight: '1',
+  occurrence: '2 in 400 editions (0.50 %)'
+}
+{
+  trait: 'Num179',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num18',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num180',
+  weight: '1',
+  occurrence: '3 in 400 editions (0.75 %)'
+}
+{
+  trait: 'Num181',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num182',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num183',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num184',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num185',
+  weight: '1',
+  occurrence: '2 in 400 editions (0.50 %)'
+}
+{
+  trait: 'Num186',
+  weight: '1',
+  occurrence: '2 in 400 editions (0.50 %)'
+}
+{
+  trait: 'Num187',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num188',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num189',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num19',
+  weight: '1',
+  occurrence: '2 in 400 editions (0.50 %)'
+}
+{
+  trait: 'Num190',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num191',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num192',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num193',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num194',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num195',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num196',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num197',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num198',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num199',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num2',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num20',
+  weight: '1',
+  occurrence: '2 in 400 editions (0.50 %)'
+}
+{
+  trait: 'Num200',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num201',
+  weight: '1',
+  occurrence: '2 in 400 editions (0.50 %)'
+}
+{
+  trait: 'Num202',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num203',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num204',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num205',
+  weight: '1',
+  occurrence: '4 in 400 editions (1.00 %)'
+}
+{
+  trait: 'Num206',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num207',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num208',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num209',
+  weight: '1',
+  occurrence: '3 in 400 editions (0.75 %)'
+}
+{
+  trait: 'Num21',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num210',
+  weight: '1',
+  occurrence: '2 in 400 editions (0.50 %)'
+}
+{
+  trait: 'Num211',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num212',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num213',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num214',
+  weight: '1',
+  occurrence: '2 in 400 editions (0.50 %)'
+}
+{
+  trait: 'Num215',
+  weight: '1',
+  occurrence: '2 in 400 editions (0.50 %)'
+}
+{
+  trait: 'Num216',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num217',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num218',
+  weight: '1',
+  occurrence: '3 in 400 editions (0.75 %)'
+}
+{
+  trait: 'Num219',
+  weight: '1',
+  occurrence: '2 in 400 editions (0.50 %)'
+}
+{
+  trait: 'Num22',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num220',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num221',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num222',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num223',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num224',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num225',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num226',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num227',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num228',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num229',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num23',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num230',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num231',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num232',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num233',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num234',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num235',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num236',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num237',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num238',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num239',
+  weight: '1',
+  occurrence: '2 in 400 editions (0.50 %)'
+}
+{
+  trait: 'Num24',
+  weight: '1',
+  occurrence: '2 in 400 editions (0.50 %)'
+}
+{
+  trait: 'Num240',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num241',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num242',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num243',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num244',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num245',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num246',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num247',
+  weight: '1',
+  occurrence: '2 in 400 editions (0.50 %)'
+}
+{
+  trait: 'Num248',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num249',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num25',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num250',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num251',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num252',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num253',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num254',
+  weight: '1',
+  occurrence: '2 in 400 editions (0.50 %)'
+}
+{
+  trait: 'Num255',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num256',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num257',
+  weight: '1',
+  occurrence: '3 in 400 editions (0.75 %)'
+}
+{
+  trait: 'Num258',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num259',
+  weight: '1',
+  occurrence: '3 in 400 editions (0.75 %)'
+}
+{
+  trait: 'Num26',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num260',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num261',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num262',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num263',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num264',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num265',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num266',
+  weight: '1',
+  occurrence: '2 in 400 editions (0.50 %)'
+}
+{
+  trait: 'Num267',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num268',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num269',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num27',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num270',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num271',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num272',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num273',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num274',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num275',
+  weight: '1',
+  occurrence: '3 in 400 editions (0.75 %)'
+}
+{
+  trait: 'Num276',
+  weight: '1',
+  occurrence: '2 in 400 editions (0.50 %)'
+}
+{
+  trait: 'Num277',
+  weight: '1',
+  occurrence: '2 in 400 editions (0.50 %)'
+}
+{
+  trait: 'Num278',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num279',
+  weight: '1',
+  occurrence: '2 in 400 editions (0.50 %)'
+}
+{
+  trait: 'Num28',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num280',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num281',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num282',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num283',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num284',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num285',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num286',
+  weight: '1',
+  occurrence: '2 in 400 editions (0.50 %)'
+}
+{
+  trait: 'Num287',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num288',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num289',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num29',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num290',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num291',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num292',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num293',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num294',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num295',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num296',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num297',
+  weight: '1',
+  occurrence: '2 in 400 editions (0.50 %)'
+}
+{
+  trait: 'Num298',
+  weight: '1',
+  occurrence: '3 in 400 editions (0.75 %)'
+}
+{
+  trait: 'Num299',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num3',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num30',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num300',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num301',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num302',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num303',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num304',
+  weight: '1',
+  occurrence: '2 in 400 editions (0.50 %)'
+}
+{
+  trait: 'Num305',
+  weight: '1',
+  occurrence: '2 in 400 editions (0.50 %)'
+}
+{
+  trait: 'Num306',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num307',
+  weight: '1',
+  occurrence: '2 in 400 editions (0.50 %)'
+}
+{
+  trait: 'Num308',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num309',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num31',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num310',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num311',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num312',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num313',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num314',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num315',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num316',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num317',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num318',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num319',
+  weight: '1',
+  occurrence: '3 in 400 editions (0.75 %)'
+}
+{
+  trait: 'Num32',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num320',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num321',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num322',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num323',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num324',
+  weight: '1',
+  occurrence: '3 in 400 editions (0.75 %)'
+}
+{
+  trait: 'Num325',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num326',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num327',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num328',
+  weight: '1',
+  occurrence: '2 in 400 editions (0.50 %)'
+}
+{
+  trait: 'Num329',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num33',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num330',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num331',
+  weight: '1',
+  occurrence: '4 in 400 editions (1.00 %)'
+}
+{
+  trait: 'Num332',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num333',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num334',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num335',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num336',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num337',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num338',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num339',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num34',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num340',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num341',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num342',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num343',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num344',
+  weight: '1',
+  occurrence: '2 in 400 editions (0.50 %)'
+}
+{
+  trait: 'Num345',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num346',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num347',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num348',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num349',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num35',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num350',
+  weight: '1',
+  occurrence: '2 in 400 editions (0.50 %)'
+}
+{
+  trait: 'Num351',
+  weight: '1',
+  occurrence: '2 in 400 editions (0.50 %)'
+}
+{
+  trait: 'Num352',
+  weight: '1',
+  occurrence: '3 in 400 editions (0.75 %)'
+}
+{
+  trait: 'Num353',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num354',
+  weight: '1',
+  occurrence: '2 in 400 editions (0.50 %)'
+}
+{
+  trait: 'Num355',
+  weight: '1',
+  occurrence: '2 in 400 editions (0.50 %)'
+}
+{
+  trait: 'Num356',
+  weight: '1',
+  occurrence: '2 in 400 editions (0.50 %)'
+}
+{
+  trait: 'Num357',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num358',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num359',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num36',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num360',
+  weight: '1',
+  occurrence: '3 in 400 editions (0.75 %)'
+}
+{
+  trait: 'Num361',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num362',
+  weight: '1',
+  occurrence: '2 in 400 editions (0.50 %)'
+}
+{
+  trait: 'Num363',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num364',
+  weight: '1',
+  occurrence: '3 in 400 editions (0.75 %)'
+}
+{
+  trait: 'Num365',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num366',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num367',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num368',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num369',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num37',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num370',
+  weight: '1',
+  occurrence: '2 in 400 editions (0.50 %)'
+}
+{
+  trait: 'Num371',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num372',
+  weight: '1',
+  occurrence: '2 in 400 editions (0.50 %)'
+}
+{
+  trait: 'Num373',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num374',
+  weight: '1',
+  occurrence: '2 in 400 editions (0.50 %)'
+}
+{
+  trait: 'Num375',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num376',
+  weight: '1',
+  occurrence: '2 in 400 editions (0.50 %)'
+}
+{
+  trait: 'Num377',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num378',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num379',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num38',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num380',
+  weight: '1',
+  occurrence: '3 in 400 editions (0.75 %)'
+}
+{
+  trait: 'Num381',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num382',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num383',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num384',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num385',
+  weight: '1',
+  occurrence: '2 in 400 editions (0.50 %)'
+}
+{
+  trait: 'Num386',
+  weight: '1',
+  occurrence: '3 in 400 editions (0.75 %)'
+}
+{
+  trait: 'Num387',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num388',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num389',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num39',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num390',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num391',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num392',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num393',
+  weight: '1',
+  occurrence: '2 in 400 editions (0.50 %)'
+}
+{
+  trait: 'Num394',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num395',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num396',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num397',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num398',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num399',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num4',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num40',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num400',
+  weight: '1',
+  occurrence: '2 in 400 editions (0.50 %)'
+}
+{
+  trait: 'Num401',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num402',
+  weight: '1',
+  occurrence: '3 in 400 editions (0.75 %)'
+}
+{
+  trait: 'Num403',
+  weight: '1',
+  occurrence: '2 in 400 editions (0.50 %)'
+}
+{
+  trait: 'Num404',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num405',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num406',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num407',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num408',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num409',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num41',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num410',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num411',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num412',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num413',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num414',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num415',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num416',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num417',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num418',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num419',
+  weight: '1',
+  occurrence: '2 in 400 editions (0.50 %)'
+}
+{
+  trait: 'Num42',
+  weight: '1',
+  occurrence: '2 in 400 editions (0.50 %)'
+}
+{
+  trait: 'Num420',
+  weight: '1',
+  occurrence: '2 in 400 editions (0.50 %)'
+}
+{
+  trait: 'Num421',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num422',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num423',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num424',
+  weight: '1',
+  occurrence: '2 in 400 editions (0.50 %)'
+}
+{
+  trait: 'Num425',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num426',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num427',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num428',
+  weight: '1',
+  occurrence: '2 in 400 editions (0.50 %)'
+}
+{
+  trait: 'Num429',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num43',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num430',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num431',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num432',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num433',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num434',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num435',
+  weight: '1',
+  occurrence: '2 in 400 editions (0.50 %)'
+}
+{
+  trait: 'Num436',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num437',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num438',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num439',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num44',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num440',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num441',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num442',
+  weight: '1',
+  occurrence: '2 in 400 editions (0.50 %)'
+}
+{
+  trait: 'Num443',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num444',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num445',
+  weight: '1',
+  occurrence: '2 in 400 editions (0.50 %)'
+}
+{
+  trait: 'Num446',
+  weight: '1',
+  occurrence: '2 in 400 editions (0.50 %)'
+}
+{
+  trait: 'Num447',
+  weight: '1',
+  occurrence: '3 in 400 editions (0.75 %)'
+}
+{
+  trait: 'Num448',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num449',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num45',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num450',
+  weight: '1',
+  occurrence: '2 in 400 editions (0.50 %)'
+}
+{
+  trait: 'Num46',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num47',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num48',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num49',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num5',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num50',
+  weight: '1',
+  occurrence: '2 in 400 editions (0.50 %)'
+}
+{
+  trait: 'Num51',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num52',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num53',
+  weight: '1',
+  occurrence: '3 in 400 editions (0.75 %)'
+}
+{
+  trait: 'Num54',
+  weight: '1',
+  occurrence: '3 in 400 editions (0.75 %)'
+}
+{
+  trait: 'Num55',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num56',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num57',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num58',
+  weight: '1',
+  occurrence: '2 in 400 editions (0.50 %)'
+}
+{
+  trait: 'Num59',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num6',
+  weight: '1',
+  occurrence: '2 in 400 editions (0.50 %)'
+}
+{
+  trait: 'Num60',
+  weight: '1',
+  occurrence: '2 in 400 editions (0.50 %)'
+}
+{
+  trait: 'Num61',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num62',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num63',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num64',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num65',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num66',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num67',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num68',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num69',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num7',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num70',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num71',
+  weight: '1',
+  occurrence: '2 in 400 editions (0.50 %)'
+}
+{
+  trait: 'Num72',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num73',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num74',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num75',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num76',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num77',
+  weight: '1',
+  occurrence: '3 in 400 editions (0.75 %)'
+}
+{
+  trait: 'Num78',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num79',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num8',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num80',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num81',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num82',
+  weight: '1',
+  occurrence: '2 in 400 editions (0.50 %)'
+}
+{
+  trait: 'Num83',
+  weight: '1',
+  occurrence: '2 in 400 editions (0.50 %)'
+}
+{
+  trait: 'Num84',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num85',
+  weight: '1',
+  occurrence: '2 in 400 editions (0.50 %)'
+}
+{
+  trait: 'Num86',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num87',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num88',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num89',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num9',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num90',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num91',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num92',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num93',
+  weight: '1',
+  occurrence: '0 in 400 editions (0.00 %)'
+}
+{
+  trait: 'Num94',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num95',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num96',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num97',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num98',
+  weight: '1',
+  occurrence: '1 in 400 editions (0.25 %)'
+}
+{
+  trait: 'Num99',
+  weight: '1',
+  occurrence: '2 in 400 editions (0.50 %)'
+}
+
